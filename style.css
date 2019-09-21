@@ -11,15 +11,14 @@
     }
     #top{
     background: #ebebeb;
-    padding: 30px;
+    padding: 10px;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 180px;
     margin-top: 20px;
-    margin-right: 300px;
-    width: 800px;
+    margin-right: 180px;
+    width: 850px;
     color: grey;
-    height: 40px;
-    font-size: 14px;
+    height: 60px;
     
     
     }
@@ -27,15 +26,14 @@
     
     .nav{
         background: #ebebeb;
-        padding: 30px;
+        padding: 10px;
         margin-top: 22px;
-        margin-left: 300px;
-        margin-right: 300px;
+        margin-left: 180px;
+        margin-right: 180px;
         text-align: center;
-        width: 800px;
+        width: 850px;
         color: grey;
-        height: 40px;
-        font-size: 14px;
+        height: 60px;
     
     }
     
@@ -44,16 +42,15 @@
         position: relative;
         width: 495px;
         float: left;
-        width: 450px;
+        width: 495px;
         color: grey;
         height: 220px;
         text-align: center;
-        margin-left: 300px;
+        margin-left: 180px;
         padding: 28px;
         vertical-align: top;
         bottom: 0px;
         top: 20px;
-        font-size: 14px;
 
     
     
@@ -67,15 +64,14 @@
         color: grey;
         float: left;
         text-align: center;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 15px;
+        margin-right: 15px;
         padding: 22px;
         width: 340px;
         bottom: 0px;
         top: 20px;
         height: 220px;
-        margin-bottom: 40px;
-        font-size: 14px;
+        margin-bottom: 35px;
     
     
     
@@ -86,12 +82,11 @@
         clear: both;
         overflow: auto;
         padding: 40px;
-        margin-left: 98px;
-        margin-right: 98px;
-        width: 800px;
+        margin-left: 180px;
+        margin-right: 180px;
+        width: 850px;
         color: grey;
         text-align: center;
-        font-size: 14px;
     
     
     }
@@ -105,7 +100,6 @@
     position: absolute;
     left: 19px;
     top: 70px;
-    font-size: 14px;
     
     
     
@@ -114,15 +108,13 @@
     h1{
     color: #777;
     background: #ebebeb;
-    padding: 15px;
+    padding: 5px;
     position: relative;
     top: 400px;
     width: 400px;
     right: -2px;
-    top: -5px;
-    height: 32px;
-    font-size: 14px;
-    line-height: 5px;
+    top: -8px;
+    height: 35px;
     }
     
     
@@ -131,12 +123,11 @@
     p{
         color: #777;
         background: #ebebeb;
-        padding: 8px;
+        padding: 5px;
     position: relative;
     top: 40px;
-    height: 32px;
-    font-size: 14px;
-    top: -5px;
+    height: 35px;
+    top: -15px;
     }
     
     
