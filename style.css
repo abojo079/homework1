@@ -13,9 +13,9 @@
     background: #ebebeb;
     padding: 30px;
     text-align: center;
-    margin-left: 98px;
+    margin-left: 300px;
     margin-top: 20px;
-    margin-right: 98px;
+    margin-right: 300px;
     width: 800px;
     color: grey;
     height: 40px;
@@ -29,8 +29,8 @@
         background: #ebebeb;
         padding: 30px;
         margin-top: 22px;
-        margin-left: 98px;
-        margin-right: 98px;
+        margin-left: 300px;
+        margin-right: 300px;
         text-align: center;
         width: 800px;
         color: grey;
@@ -48,8 +48,8 @@
         color: grey;
         height: 220px;
         text-align: center;
-        margin-left: 99px;
-        padding: 22px;
+        margin-left: 300px;
+        padding: 28px;
         vertical-align: top;
         bottom: 0px;
         top: 20px;
